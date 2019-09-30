@@ -19,12 +19,12 @@ h1 {
 nav a {
   font-family: Georgia, serif;
   text-transform: uppercase;
-  color: #5d8436;
+  color: #793284;
   text-decoration: line-through;
 }
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: normal;
   text-align: center;
 }
@@ -46,7 +46,7 @@ nav {
 }
 
 nav ol {
-  list-style-type : none;
+  list-style-type: none;
   font-style: oblique;
 }
 
@@ -61,5 +61,5 @@ h1, h2 {
 }
 
 h2 {
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
