@@ -8,8 +8,7 @@ html {
   width: 100%;
 }
 /*-------header--------*/
-nav
-a,h1{
+nav a h1{
   font-family: : #5d8432;
   text-transform: uppercase;
 }
