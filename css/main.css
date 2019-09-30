@@ -1,3 +1,4 @@
+
 html {
   background-color :#f2f1ed;
   font-family: Georgia, serif;
@@ -6,21 +7,24 @@ html {
   img{
   width: 100%;
 }
-h1, h2{
-  color: #5d8432;
+/*-------header--------*/
+nav
+a,h1{
+  font-family: : #5d8432;
   text-transform: uppercase;
 }
 
 figcaption{
-  font-size: .8rem
-  font-style: italic;
+  font-size: 0.8rem;
+  font-style:normal;
   text-align: center;
 }
 .intro{
   color: #b42885;
   font-size: 1rem;
 }
-.hadro{
+
+head.hadro{
   color: purple;
   font-style: oblique;
 
@@ -41,6 +45,6 @@ h1,h2 {
    font-style: oblique;
    color: blue;
 }
-h1{
-  font-family: 'Abril Fatface', cursive;
+h2{
+  font-family: 'Patua One', sans-serif;
 }
