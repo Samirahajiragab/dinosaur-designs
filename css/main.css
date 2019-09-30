@@ -8,17 +8,20 @@ html {
   width: 100%;
 }
 /*-------header--------*/
-nav a h1{
+ h1{
   font-family: : #5d8432;
   text-transform: uppercase;
 }
-
+nav a{
+  font-family: : #5d8432;
+  text-transform: uppercase;
+}
 figcaption{
   font-size: 0.8rem;
   font-style:normal;
   text-align: center;
 }
-.intro{
+head.intro{
   color: #b42885;
   font-size: 1rem;
 }
