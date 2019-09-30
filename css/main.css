@@ -16,3 +16,29 @@ figcaption{
   font-style: italic;
   text-align: center;
 }
+.intro{
+  color: #b42885;
+  font-size: 1rem;
+}
+.hadro{
+  color: purple;
+  font-style: oblique;
+
+}
+nav{
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+nav ol {
+  list-style-type: none;
+  font-style:oblique;
+}
+nav a:hover {
+  color: #b42885;
+   text-decoration: underline;
+}
+h1,h2 {
+   font-style: oblique;
+   color: blue;
+
+}
