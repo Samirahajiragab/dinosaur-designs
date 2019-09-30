@@ -9,12 +9,15 @@ html {
 }
 /*-------header--------*/
  h1{
+   color: #5d8432;
   font-family: Georgia, serif;
   text-transform: uppercase;
+  text-decoration: line-through;
 }
 nav a{
   font-family: Georgia, serif;
   text-transform: uppercase;
+  color: lightgreen;
 }
 figcaption{
   font-size: 0.8rem;
@@ -29,15 +32,16 @@ figcaption{
 head.hadro{
   color: purple;
   font-style: oblique;
-
 }
-nav{
+nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: Georgia, serif;
 }
 nav ol {
   list-style-type: none;
   font-style:oblique;
+
 }
 nav a:hover {
   color: #b42885;
